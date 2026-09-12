@@ -1,105 +1,160 @@
-# portfolio.html
-👋 Hi, I'm Y. Chakradhar Reddy
+Y. Chakradhar Reddy --- Personal Portfolio
 
-B.Tech Student • Developer • Problem Solver
+A modern, responsive personal portfolio website for Y. Chakradhar
+Reddy, a B.Tech student interested in software development,
+programming, emerging technologies, problem-solving, and creative
+digital experiences.
 
+✨ Features
 
-I'm Y. Chakradhar Reddy, a B.Tech student at Sai University, Chennai, passionate about programming, problem-solving, data structures, and web development.
+Modern dark-themed responsive design
 
+Fixed navigation bar with smooth scrolling
 
-I enjoy learning new technologies, building projects, and continuously improving my technical skills through practical development.
+Animated hero section
 
+3D-style interactive profile photo card
 
-🚀 About Me
+About section with personal highlights
 
-🎓 Pursuing B.Tech at Sai University, Chennai
+Education section
 
-💻 Interested in Programming & Web Development
+Skills section
 
-🧠 Passionate about Data Structures & Problem Solving
+Projects showcase
 
-🌱 Currently improving my skills in Python, C, DSA, and Web Development
+Contact section with email, LinkedIn, and GitHub links
 
-🛠️ Interested in building useful real-world projects
+Resume view and download buttons
 
-🧑‍💻 Skills
+Scroll-triggered section animations
 
-C Programming
+Responsive layouts for desktop, tablet, and mobile
 
-Python
+Interactive mouse movement effect on the profile card
 
-Data Structures & Algorithms
+🛠️ Technologies Used
 
-HTML
+HTML5
 
-CSS
+CSS3
 
 JavaScript
 
-Responsive Web Development
+Google Fonts --- Inter
 
-📂 Projects
+📁 Project Structure
 
+portfolio/
+├── index.html
+├── profile.jpg
+└── resume.pdf
 
-🌐 Personal Portfolio
+profile.jpg is used as the profile image and resume.pdf is used by
+the resume buttons. Keep these files in the same directory as
+index.html.
 
-A modern and responsive personal portfolio website showcasing my background, education, skills, and projects.
+🚀 Getting Started
 
-🔗 Live Portfolio:
-https://chakradharreddyportfoli0.netlify.app
+1. Download or clone the project
 
-🐍 Python Projects
+Place the portfolio files in a single folder.
 
-Programming and problem-solving projects created while learning and practicing Python.
+2. Add your assets
 
-🧠 Data Structures & Algorithms
+Add: - profile.jpg --- your profile image - resume.pdf --- your
+resume
 
-Implementations and practice projects focused on data structures, algorithms, and fundamental programming concepts.
+3. Run the website
 
-💻 Web Development
+Open index.html in any modern web browser.
 
-Responsive websites built using HTML, CSS, and JavaScript while exploring modern web-development techniques.
+For development, you can also use a local server such as VS Code Live
+Server.
 
-🎓 Education
+🧩 Website Sections
 
-Sai University, Chennai
-B.Tech — 2025 to Present
+Hero
 
-Sri Chaitanya
-Intermediate — 2023 to 2025
+Introduces Chakradhar Reddy with a short professional description and
+links to contact and resume actions.
 
-Sri Chaitanya
-10th Class — 2023
+About
 
-🎯 Goals
+Presents a short personal introduction and four highlights: -
+Developer - Tech Enthusiast - Problem Solver - Continuous Learner
 
-My goal is to continuously strengthen my programming and development skills, work on meaningful projects, and become a strong software developer.
+Education
 
-I am particularly interested in:
+Displays the current Bachelor of Technology education and higher
+secondary education.
 
-Software Development
+Skills
 
-Web Development
+Currently lists: - HTML - CSS - JavaScript - Python - Java - C
+Programming - Problem Solving - Communication
 
-Data Structures & Algorithms
+Projects
 
-Problem Solving
+Includes placeholders/examples for: 1. Portfolio Website 2. Student
+Project 3. Learning Lab 4. Future Build
 
-Building Real-World Projects
+Contact
 
-🌐 Portfolio
+Provides links for email, LinkedIn, GitHub, and the resume.
 
-Check out my portfolio to learn more about me and my work:
+🎨 Design
 
+The portfolio uses a minimalist black-and-white visual style with: -
+Inter typography - Glassmorphism-inspired navigation - Subtle gradients
+and glow effects - Rounded cards - Hover animations - 3D transforms -
+Responsive breakpoints
 
-👉 Visit My Portfolio
+📱 Responsive Design
 
-📫 Connect With Me
+The layout adapts for: - Desktop screens - Tablets - Mobile devices
 
-📧 Email: chakradharreddy.y-29@scds.saiuniversity.edu.in
+On smaller screens, multi-column layouts collapse into single-column
+sections and navigation links wrap for easier access.
 
-📱 Phone: +91 8125646289
+🔧 Customization
 
-⭐ Thanks for visiting my profile!
+To personalize the portfolio, edit the content in index.html.
 
-I'm always learning, building, and looking for opportunities to grow as a developer.
+Common updates include:
+
+Name and introduction
+
+Education details
+
+Skills
+
+Project descriptions
+
+Email address
+
+LinkedIn profile
+
+GitHub profile
+
+Resume filename
+
+Profile image
+
+📄 Resume
+
+The website expects the resume file to be named:
+
+resume.pdf
+
+Both the View Resume and Download Resume actions use this file.
+
+📬 Contact
+
+The portfolio currently provides contact links through email, LinkedIn,
+and GitHub.
+
+📜 License
+
+This project is intended as a personal portfolio template. You may
+modify the design and content for your own portfolio.
